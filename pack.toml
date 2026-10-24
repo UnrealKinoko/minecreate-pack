@@ -1,0 +1,13 @@
+name = "minecreate"
+author = "UnrealKinoko"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "3cd21013f73efb7744d86d86f313456414eeac00ba40f2e4bd7ed20efd469b49"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.259"
